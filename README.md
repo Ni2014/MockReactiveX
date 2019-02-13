@@ -4,7 +4,7 @@
 
 * 推导RxJava的实现
 * 还原实际使用map和flatMap的场景并实现类似的操作符功能
-* 从最基础的同步Api到异步Api，再到响应式的流式Api解决CallHell问题；
+* 从最基础的同步Api到异步Api，再到响应式的流式Api解决CallbackHell问题；
 
 
 ### 一些用法
